@@ -6,4 +6,3 @@
         WHERE DATE_PART('month', flight_date) = 1 
     )
     SELECT * FROM flights_one_month
-    ```
