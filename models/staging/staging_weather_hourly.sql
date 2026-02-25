@@ -1,5 +1,4 @@
-
-    WITH hourly_raw AS (
+WITH hourly_raw AS (
         SELECT
                 airport_code,
                 station_id,
@@ -26,4 +25,3 @@
     )
     SELECT * 
     FROM hourly_data
-    ```

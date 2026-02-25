@@ -25,5 +25,4 @@
     )
     SELECT * 
     FROM daily_flattened
-    ```
-sql
+    
